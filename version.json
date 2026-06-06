@@ -1,8 +1,6 @@
 {
-  "version": "3.0.1",
-  "min_version": "1.0.0",
-  "release_date": "2026-06-06",
-  "changelog": "Bug fixes",
-  "file_size": 0,
-  "file_hash": ""
+  "version": "3.0.0",
+  "min_version": "3.0.0",
+  "download_url": "",
+  "changelog": "Initial release"
 }
