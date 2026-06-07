@@ -1,6 +1,11 @@
 {
-  "version": "3.0.2",
-  "min_version": "3.0.1",
-  "download_url": "",
-  "changelog": "Initial release"
+  "latest_version": "3.0.0",
+  "version": "3.0.0",
+  "min_version": "3.0.0",
+  "download_url": "https://github.com/JENGUEL/-BiblioQ-Updates/releases/download/v3.0.0/BiblioQ_Setup.exe",
+  "checksum": "5198cb4376d001bfe4c65c5ce51667bdbae04f4ca4fa49a9ac1fb5b0ff80e638",
+  "file_hash": "5198cb4376d001bfe4c65c5ce51667bdbae04f4ca4fa49a9ac1fb5b0ff80e638",
+  "release_date": "2026-06-08",
+  "changelog": "BiblioQ 3.0.0 release",
+  "file_size": 260895544
 }
