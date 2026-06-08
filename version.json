@@ -3,9 +3,9 @@
   "version": "3.0.1",
   "min_version": "3.0.0",
   "download_url": "https://github.com/JENGUEL/-BiblioQ-Updates/releases/download/v3.0.1/BiblioQ_Setup.exe",
-  "checksum": "3d0b3bf59564ef2d0bfc06cb8937892b2713c314e260dba76c5b494e86ceffc6",
-  "file_hash": "3d0b3bf59564ef2d0bfc06cb8937892b2713c314e260dba76c5b494e86ceffc6",
+  "checksum": "8d34660937c229a56cd73d2cc15052092c6ae337e5dd3504dd060c5ecc861c91",
+  "file_hash": "8d34660937c229a56cd73d2cc15052092c6ae337e5dd3504dd060c5ecc861c91",
   "release_date": "2026-06-08",
-  "changelog": "BiblioQ 3.0.1: remote admin agent bundled in installer, license revoke via Supabase, crash reporting hooks.",
-  "file_size": 325338810
+  "changelog": "BiblioQ 3.0.1: ProgramData agent config, update install prompts, local cache-first updates, Windows exe metadata. Copyright (c) 2026 Miguel Mamerto O. Dinglasa.",
+  "file_size": 325353222
 }
